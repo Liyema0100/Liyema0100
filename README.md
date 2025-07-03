@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Liyema0100
 - 👀 I’m interested in white and black hat hacking
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: Email inathiliyemad@gmail.com
