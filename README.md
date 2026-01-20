@@ -1,7 +1,7 @@
 - 👀 I’m interested in white and black hat hacking
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Email inathiliyemad@gmail.com
-- 😄 Pronouns: he
+- 😄 Pronouns: i/am/the/coolest
 - ⚡ Fun fact: I type every piece of code so trust the process
 
 <!---
